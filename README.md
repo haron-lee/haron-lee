@@ -1,10 +1,36 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:91EAE4&height=150&section=header&text=Enjoy%20Doha's%20GitHub&fontSize=30&fontColor=ffffff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:91EAE4&height=150&fontSize=30&fontColor=ffffff&fontAlignY=35)
 
-<div align="center">
 
-<div align="center">
+<h3>안녕하세요 이도하입니다 👋</h2>
+<p>빠른 변화에도 빠르게 적응하며, 새로운 시도를 좋아합니다.</p>
+<p>코드의 추상화, 재사용성에 관심이 많으며, 읽기 좋은 코드를 고민하는 것을 좋아합니다.</p>
+<p>공유를 통한 성장을 하는 개발자가 되기 위해 노력하고 있습니다.</p>
+
+<br>
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="2" >Projects</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Tripillow</td>
+			<td>https://tripillow.netlify.app/</td>
+		</tr>
+		<tr>
+			<td>We Wear Weather</td>
+			<td>https://we-wear-weather.vercel.app/</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<br>
+
   <h3>💻 My Skills</h3>
 <div>
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
@@ -21,9 +47,7 @@
 <br>
 <br>
 
-<h3> 📝 Study log </h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haron-lee&hide=scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haron-lee&bg_color=86A8E7&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haron-lee&hide=scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -31,8 +55,7 @@
 
 
 
-
-<div align="center">
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:91EAE4&height=150&section=footer&text=&fontSize=50)
 </div>
